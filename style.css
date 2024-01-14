@@ -333,7 +333,7 @@ header{
     width: 100vw;
     display: grid;
     place-items: center;
-    background: lightblue;
+    background: #000;
 
     .msg{
         text-align: center;
